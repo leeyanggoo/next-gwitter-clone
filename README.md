@@ -36,6 +36,7 @@
 ## 미구현 / 오류
 + ! 배포 시 DB 미연결
 + ! server와 netlify 오류
++ ! `[next-auth][error][CLIENT_FETCH_ERROR]`
 + 비로그인 시 발생하는 `Error: Not signed in` 오류 (로컬)
 + 알림 상세 내역 미포함 / 링크 기능 X
 + 게시글 및 댓글 삭제 기능 X
