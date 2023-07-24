@@ -2,8 +2,8 @@
 ![twitter](https://github.com/leeyanggoo/next-gwitter-clone/assets/125417787/2fe6bc89-cb27-4a52-be47-f4bddf932e8d)
 
 >  _애플리케이션 'Twitter'를 클론 코딩한 사이트입니다._
-> + Live Demo : https://win98-game.web.app/
-> + Refer to : https://www.youtube.com/watch?v=ytkG7RT6SvU / https://github.com/antonioerdeljac/twitter-clone
+> + Live Demo : https://leeyanggoo-gwitter-clone.netlify.app/
+> + Refer to : https://www.youtube.com/watch?v=ytkG7RT6SvU
 
 # 사용 스택 / 라이브러리
 + **Next**
