@@ -45,3 +45,4 @@
 + Next.js 및 TypeScript 실습
 + DB 연결 및 axios 연동 실습
 + 환경 변수 설정 및 배포 실습
++ 커스텀 훅 이해 및 실습
