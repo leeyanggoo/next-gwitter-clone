@@ -40,9 +40,7 @@
 + 알림 상세 내역 미포함 / 링크 기능 X
 + 게시글 및 댓글 삭제 기능 X
 
-# Setup .env file
-```
-DATABASE_URL=
-NEXTAUTH_JWT_SECRET=
-NEXTAUTH_SECRET=
-```
+# 프로젝트 목적
++ Next.js 및 TypeScript 실습
++ DB 연결 및 axios 연동 실습
++ 환경 변수 설정 및 배포 실습
